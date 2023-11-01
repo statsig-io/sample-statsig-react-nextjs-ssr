@@ -28,7 +28,9 @@
   "dependencies": {
     "next": "13.5.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "statsig-node": "5.11.0",
+    "statsig-react": "1.31.0"
   },
   "devDependencies": {
     "@commitlint/cli": "18.2.0",
